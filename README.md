@@ -12,4 +12,4 @@ Given an empty ![](https://latex.codecogs.com/svg.latex?%5Cinline%20%7B%5Ccolor%
   <img src="https://i.imgur.com/wucyNW0.png" width="350" alt="Helsinki">
 </p>
 
-The image above shows the solution to a ![](https://latex.codecogs.com/svg.latex?%5Cinline%20%7B%5Ccolor%7BOrange%7D%204%20%5Ctimes%204%7D) helsinki puzzle. Equal rows and columns are colored in accordance with eachother. 
+The image above shows the solution to a ![](https://latex.codecogs.com/svg.latex?%5Cinline%20%7B%5Ccolor%7BOrange%7D%204%20%5Ctimes%204%7D) helsinki puzzle. The indices of equal rows and columns have the same color. 
